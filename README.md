@@ -8,3 +8,4 @@ saber quien tiene mas tu o la maquina.
 # Boton mano: sirve para empezar la partida y para resetear cuando ya has acabado la partida.
 # Boton plantarse: sirve para dejar de jugar y saber si has ganado o perdido.
 # Boton doblar: sirve para pedir otra carta y que te la den.
+#Contributor: Jose Higón
